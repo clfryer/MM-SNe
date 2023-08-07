@@ -1,4 +1,4 @@
-# Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae
+## Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae
 
 <img src="https://github.com/clfryer/MM-SNe/assets/19571835/3c5f54b0-b56b-414c-9cae-54703fbc3e0b" alt="Repository Image" width="700">
 
@@ -7,7 +7,7 @@
 This github repository is meant to host the evolving versions of the image shown above and the related publication [Fryer at al. 2023](https://arxiv.org/abs/2305.06134). 
 We invite and encourage active community engagement to collaboratively enhance and evolve this shared document. 
 
-# Active Community Engagement 
+## Active Community Engagement 
 Add your contribution to the living document for Multi-Messenger Diagnostics of the Engine behind Core-Collapse Supernovae!
 Join us in improving and evolving this document through *active community engagement*. Your contributions keep the information accurate and relevant, reflecting the evolving needs of our community. Together, we'll create a valuable resource that benefits us all.
 
@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1-ciqF4bwiePiYQ_8mVqaPMvg9GBdB0PVqLY7ltkm
 
 
 
-# Contributors so far
+## Contributors so far
 Christopher L. Fryer, Eric Burns, Aimee Hungerford, Samar Safi-Harb, R.T. Wollaeger, Richard S. Miller, Michela Negro, Samalka Anandagoda, Dieter H. Hartmann
 
 ----------------------------------
