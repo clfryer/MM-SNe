@@ -2,7 +2,7 @@
 
 <img src="https://github.com/clfryer/MM-SNe/assets/19571835/3c5f54b0-b56b-414c-9cae-54703fbc3e0b" alt="Repository Image" width="700">
 
-<i>Caption: Living Image version v0 for Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae.</i>
+<i>Caption: Living Image (version v0) for Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae.</i>
 
 This github repository is meant to host the evolving versions of the image shown above and the related publication [Fryer at al. 2023](https://arxiv.org/abs/2305.06134). 
 We invite and encourage active community engagement to collaboratively enhance and evolve this shared document. 
