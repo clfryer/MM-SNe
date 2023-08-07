@@ -1,4 +1,4 @@
-# MM-SNe
+# Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae
 
 <img src="https://github.com/clfryer/MM-SNe/assets/19571835/3c5f54b0-b56b-414c-9cae-54703fbc3e0b" alt="Repository Image" width="700">
 
