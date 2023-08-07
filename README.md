@@ -4,7 +4,7 @@
 
 <i>Caption: Living Image for Multi-Messenger Diagnostics of the Engine Behind Core-Collapse Supernovae.</i>
 
-This github repository is meant to host the evolving verions of the image shown above. 
+This github repository is meant to host the evolving versions of the image shown above and the related publication [Fryer at al. 2023](https://arxiv.org/abs/2305.06134). 
 We invite and encourage active community engagement to collaboratively enhance and evolve this shared document. 
 
 # Active Community Engagement 
