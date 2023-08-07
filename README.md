@@ -21,6 +21,10 @@ please, fill in this Google form: https://forms.gle/hiG9py35KTzJUVpv5
 The submitted suggestions will be immediately publicly visible through the automatically generates Google spreadsheet available at this link:
 https://docs.google.com/spreadsheets/d/1-ciqF4bwiePiYQ_8mVqaPMvg9GBdB0PVqLY7ltkmvKo/edit?usp=sharing
 
+## Periodic updates
+We will periodically (every 6 months) update the living image implementing the suggestion received from the community.
+
+
 
 
 ## Contributors so far
