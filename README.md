@@ -12,15 +12,19 @@ Add your contribution to the living document for Multi-Messenger Diagnostics of 
 Join us in improving and evolving this document through *active community engagement*. Your contributions keep the information accurate and relevant, reflecting the evolving needs of our community. Together, we'll create a valuable resource that benefits us all.
 
 To submit a reccomendation about 
-- Add a new diagnostic to study SNe engines
-- Update/complete an existing diagnostic discussed in [Fryer at al. 2023](https://arxiv.org/abs/2305.06134)
-- General remark/comment/suggestion on how to improve this living document
+  - Add a new diagnostic to study SNe engines
+  - Update/complete an existing diagnostic discussed in [Fryer at al. 2023](https://arxiv.org/abs/2305.06134)
+  - General remark/comment/suggestion on how to improve this living document
 
-  please, fill in this Google form: https://forms.gle/hiG9py35KTzJUVpv5
+please, fill in this Google form: https://forms.gle/hiG9py35KTzJUVpv5
 
-The submitted suggestions will be immediately publicly visible through the automatically generates Google spreadsheet
+The submitted suggestions will be immediately publicly visible through the automatically generates Google spreadsheet available at this link:
+https://docs.google.com/spreadsheets/d/1-ciqF4bwiePiYQ_8mVqaPMvg9GBdB0PVqLY7ltkmvKo/edit?usp=sharing
 
 
 
 # Contributors so far
 Christopher L. Fryer, Eric Burns, Aimee Hungerford, Samar Safi-Harb, R.T. Wollaeger, Richard S. Miller, Michela Negro, Samalka Anandagoda, Dieter H. Hartmann
+
+----------------------------------
+<i>We firmly stand against the propagation of abusive and offensive content, as it goes against our commitment to maintaining a respectful and inclusive environment for all users. Any submitted statements judged abusive or offensive will be removed from the public spreadsheet. As the stewards of this platform, we hold the responsibility to assess such behaviors to ensure the well-being of our community.</i>
