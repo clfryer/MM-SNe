@@ -12,16 +12,16 @@ Add your contribution to the living document for Multi-Messenger Diagnostics of 
 Join us in improving and evolving this document through *active community engagement*. Your contributions keep the information accurate and relevant, reflecting the evolving needs and understanding of our community. Together, we'll create a valuable resource that benefits us all.
 
 To submit a reccomendation about 
-  - Add a new diagnostic to study SNe engines
-  - Update/complete an existing diagnostic discussed in [Fryer at al. 2023](https://arxiv.org/abs/2305.06134)
-  - General remark/comment/suggestion on how to improve this living document
+  - adding a new diagnostic to study SNe engines
+  - updating/completing an existing diagnostic discussed in [Fryer at al. 2023](https://arxiv.org/abs/2305.06134)
+  - Making a general remark/comment/suggestion on how to improve this living document
 
 please, fill in this Google form: https://forms.gle/hiG9py35KTzJUVpv5
 
 The submitted suggestions will be immediately publicly visible through the automatically generates Google spreadsheet available at this link:
 https://docs.google.com/spreadsheets/d/1-ciqF4bwiePiYQ_8mVqaPMvg9GBdB0PVqLY7ltkmvKo/edit?usp=sharing
 
-The received suggestions will be discussed among the team (see ) implemented in future versions 
+The received suggestions will be discussed among the active contributors (see below) and implemented in future versions of the documents.
 
 ## Periodic updates
 We will periodically update the living image implementing the suggestion received from the community.
