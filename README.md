@@ -9,7 +9,7 @@ We invite and encourage active community engagement to collaboratively enhance a
 
 ## Active Community Engagement 
 Add your contribution to the living document for Multi-Messenger Diagnostics of the Engine behind Core-Collapse Supernovae!
-Join us in improving and evolving this document through *active community engagement*. Your contributions keep the information accurate and relevant, reflecting the evolving needs of our community. Together, we'll create a valuable resource that benefits us all.
+Join us in improving and evolving this document through *active community engagement*. Your contributions keep the information accurate and relevant, reflecting the evolving needs and understanding of our community. Together, we'll create a valuable resource that benefits us all.
 
 To submit a reccomendation about 
   - Add a new diagnostic to study SNe engines
